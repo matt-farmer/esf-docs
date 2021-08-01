@@ -1,7 +1,7 @@
 ---
 title: "Hugo Test Post"
 date: 2021-08-01T19:35:55+10:00
-draft: true
+draft: false
 ---
 
 ## Ethan Farmer (person)
