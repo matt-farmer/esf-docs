@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESF Demo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on ESF Demo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 19:35:55 +1000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo Test Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sun, 01 Aug 2021 19:35:55 +1000</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Ethan Farmer (person) Description Absolute fucking idiot.
+History Born in England, grew up in Australia. Has a brother who has been described as a ‘stumpy-footed culinary t-rex’
+Notes Was responsible for bringing the food-harvesting dough-bag known as Murray into Australia.</description>
+    </item>
+    
+  </channel>
+</rss>
